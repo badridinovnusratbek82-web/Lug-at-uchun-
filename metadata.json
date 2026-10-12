@@ -1,0 +1,6 @@
+{
+  "name": "Lug'atMaster - Ingliz Tili So'z Yodlash & Quiz Platformasi",
+  "description": "Minglab inglizcha so'zlarni papkalar va kitoblar bo'yicha kiritish, aqlli testlar (quiz, imlo, audio, fleshkarta), avtomatik o'tish, xatolarni tahlil qilish va to'liq statistika tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
